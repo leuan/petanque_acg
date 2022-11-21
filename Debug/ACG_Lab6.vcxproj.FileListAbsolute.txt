@@ -1,0 +1,6 @@
+F:\Teaching\Sem1\ACG\Lab6\Lab6\Lab6 - OpenGL-init\Lab6 - OpenGL\Debug\ACG_Lab6.exe
+F:\Teaching\Sem1\ACG\Lab6\Lab6\Lab6 - OpenGL-init\Lab6 - OpenGL\Debug\ACG_Lab6.pdb
+C:\Users\l3onu\OneDrive\Documents\Facultate\Year 3\Sem 1\ACG\Lab\Lab6 - Camera\Debug\ACG_Lab6.exe
+C:\Users\l3onu\Desktop\Lab6 - Camera\Debug\ACG_Lab6.exe
+D:\Lab6 - Camera\Debug\ACG_Lab6.exe
+F:\Lab6 - Camera\Debug\Petanque.exe

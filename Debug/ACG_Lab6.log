@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ACG_Lab6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+          1 file(s) copied.
+          1 file(s) copied.
+  camera.cpp
+  Sphere.cpp
+F:\Lab6 - Camera\dependente\sphere\Sphere.cpp(231,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Lab6 - Camera\dependente\sphere\Sphere.cpp(231,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+F:\Lab6 - Camera\dependente\sphere\Sphere.cpp(321,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Lab6 - Camera\dependente\sphere\Sphere.cpp(321,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  main.cpp
+F:\Lab6 - Camera\main.cpp(103,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Lab6 - Camera\main.cpp(172,47): warning C4804: '>': unsafe use of type 'bool' in operation
+F:\Lab6 - Camera\main.cpp(462,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+  Generating Code...
+  ACG_Lab6.vcxproj -> F:\Lab6 - Camera\Debug\Petanque.exe
